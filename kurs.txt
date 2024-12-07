@@ -1,0 +1,1 @@
+Debug/User.cpp.o Debug/main.cpp.o Debug/SHA256.cpp.o Debug/UserDAtabase.cpp.o Debug/ClientHandler.cpp.o Debug/Errors.cpp.o
